@@ -19,10 +19,9 @@ const perguntas = [
                 texto: "Alternativa B",
                 afirmacao: "Você é chato pra carambolas"
             }]
-        
     },
     pergunta2{
 
-
+        
     }
 ]
