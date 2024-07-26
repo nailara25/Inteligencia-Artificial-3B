@@ -17,11 +17,11 @@ const perguntas = [
             },
             {
                 texto: "Alternativa B",
-                afirmacao: "Você é chato pra carambolas"
+                afirmacao: "Você é chato hein bot"
             }]
     },
     pergunta2{
 
-        
+
     }
 ]
